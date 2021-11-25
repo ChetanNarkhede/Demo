@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="4" passed="4">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="110" started-at="2021-11-24T22:20:25 IST" finished-at="2021-11-24T22:20:25 IST">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="110" started-at="2021-11-24T22:20:25 IST" finished-at="2021-11-24T22:20:25 IST">
+      <class name="Test_Package.MyClass">
+        <test-method status="PASS" signature="A()[pri:0, instance:Test_Package.MyClass@1efed156]" name="A" duration-ms="15" started-at="2021-11-24T22:20:25 IST" finished-at="2021-11-24T22:20:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- A -->
+        <test-method status="PASS" signature="B()[pri:0, instance:Test_Package.MyClass@1efed156]" name="B" duration-ms="11" started-at="2021-11-24T22:20:25 IST" finished-at="2021-11-24T22:20:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- B -->
+      </class> <!-- Test_Package.MyClass -->
+      <class name="Test_Package.OtherClass">
+        <test-method status="PASS" signature="C()[pri:0, instance:Test_Package.OtherClass@7d0587f1]" name="C" duration-ms="2" started-at="2021-11-24T22:20:25 IST" finished-at="2021-11-24T22:20:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- C -->
+        <test-method status="PASS" signature="D()[pri:0, instance:Test_Package.OtherClass@7d0587f1]" name="D" duration-ms="1" started-at="2021-11-24T22:20:25 IST" finished-at="2021-11-24T22:20:25 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- D -->
+      </class> <!-- Test_Package.OtherClass -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
